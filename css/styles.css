@@ -1,0 +1,23 @@
+h1{text-align: center;
+   background-color: rgb(108, 201, 218);}
+.subtitulo {
+   background-color: darkred;;
+}
+h2{text-align: center;
+   background-color: rgb(210, 30, 201);}
+.subtitulo {
+   padding: 1cm;
+   font-family: Arial;
+}
+h2{
+    text-align: center;
+    background-color: rgb(26, 231, 146);}
+.subtitulo {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/800px-Apple_logo_black.svg.png);
+}
+h1{
+   color: rgb(231, 26, 187);
+   
+   padding: 1cm;
+   font-family: Arial;
+}
